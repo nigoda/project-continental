@@ -1,0 +1,1 @@
+Create a repository in github.com by name "project-continental", and create a local "main" branch and where main.txt file should be uploaded to github.com. Once uploaded please share local repository screenshot along with github.com
